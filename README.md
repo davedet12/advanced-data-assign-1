@@ -22,4 +22,4 @@ Licensing
 All code in this repository is available under the MIT License. The data file in the output/ directory is available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. All files in the data/ directory are released into the public domain.
 
 Feedback / Questions?
-Contact YOUR NAME HERE at david.deturris98@journalism.cuny.edu.
+Contact David DeTurris at david.deturris98@journalism.cuny.edu.
