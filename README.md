@@ -1,7 +1,7 @@
 This repository contains data, analytic code, and findings that support portions of the article, "NYC's Corrections Department Wages Wax and Wane Over the Years",  published November 1, 2025. Please read that article, which contains important context and details, before proceeding.
 
 Data
-This incomplete analysis uses the following spreadsheet: Citywide_Payroll_Data_(Fiscal_Year)_20251030.csv: Raw data of New York City employees salary. 
+This incomplete analysis uses the following spreadsheet: Citywide_Payroll_Data_(Fiscal_Year)_20251030.csv: Raw data of New York City employees salary. Link here, since file is too big https://data.cityofnewyork.us/City-Government/Citywide-Payroll-Data-Fiscal-Year-/k397-673e/about_data.
 
 This spreadsheet contains, among others, the following columns relevant to the analysis:
 
