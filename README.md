@@ -6,7 +6,7 @@ Two analyses are included here. One is an incomplete analysis using the followin
 
 The second analysis -- which I consider completed -- uses the following spreadsheet: Citywide_Payroll_Data__Fiscal_Year__20240616.csv -- Raw data of New York City employees salary from June 2024. 
 
-This spreadsheet contains, among others, the following columns relevant to the analysis: Total OT Paid — Amount of overtime paid to Correction's Employees; Base Salary — Base salary of each employee; Title Description - Description of Each Position of Corrections Members
+These spreadsheets contain, the following columns relevant to the analysis: Total OT Paid — Amount of overtime paid to Correction's Employees; Base Salary — Base salary of each employee; Title Description - Description of Each Position of Corrections Members
 
 Methodology
 The notebook DeTurris-One-Last-Time.ipynb -- which uses the payroll data from October 2025 -- performs the following analyses:
